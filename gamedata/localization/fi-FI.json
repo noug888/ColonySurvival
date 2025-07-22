@@ -555,128 +555,128 @@
 				"name": "Leipä"
 			},
 			"bricks": {
-				"description": "_MISSING_Allows baking clay into new types of blocks",
-				"name": "_MISSING_Bricks"
+				"description": "Antaa sinun polttaa savea uudenlaisiksi palikoiksi",
+				"name": "Tiiliskivi"
 			},
 			"bronze": {
-				"description": "_MISSING_Unlocks a way to make copper stronger, by mixing it with the rare and valuable tin",
-				"name": "_MISSING_Bronze Age"
+				"description": "Avaa uuden tavan takoa kuparista kestävämpää sekä kovempaa, sekoittamalla siihen arvokasta tinaa.",
+				"name": "Prossin aika"
 			},
 			"bronzelockbox": {
-				"description": "_MISSING_Unlocks the Bronze Lockbox. Improved version of the Copper Lockbox. More storage, more efficiency, less threatening.",
-				"name": "_MISSING_Bronze Lockbox"
+				"description": "Avaa pronssisen lukkolaatikon. Paranneltu versio kuparisesta lukkolaatikosta. Enemmän tilaa, tehokaampaa, vähemmän uhkaavaa.",
+				"name": "Pronssinen lukkolaatikko"
 			},
 			"caltrop": {
-				"description": "_MISSING_Unlocks a trap that once loaded will slow monsters below it",
-				"name": "_MISSING_Caltrops"
+				"description": "Avaa ansan joka hidastaa hirviöitä, jotka osuvan ansaan sen alapuolella",
+				"name": "Kavioansa"
 			},
 			"chestluxury": {
-				"description": "_MISSING_Unlocks Luxury Chests, which are necessary to unlock advanced technology.",
-				"name": "_MISSING_Luxury Chest"
+				"description": "Avaa yleelliset arkut, joita tarvitaan edistykselliseen valmistamiseen",
+				"name": "Yleellinen arkku"
 			},
 			"chestprestige": {
-				"description": "_MISSING_Abandon all hope of reward and proportion, ye who enter here! Prestige Chests are necessary for Prestige Science. It’s a stretch goal for enthusiastic colonies.",
-				"name": "_MISSING_Prestige Chest"
+				"description": "Hylkää kaikki toivo palkkiosta ja suhteellisuudesta, te jotka täällä käytte! Arvovalta-arkut ovat välttämättömiä arvovaltatieteelle. Se on suuri tavoite innokkaille siirtokunnille.",
+				"name": "Arvovalta-arkut"
 			},
 			"chestresource": {
-				"description": "_MISSING_Unlocks Science Chests, which are necessary to unlock advanced technology",
-				"name": "_MISSING_Science Chest"
+				"description": "Avaa tieteelliset arkut joita vaaditaan edistykselliseen tieteeseen.",
+				"name": "Tieteellinen arkku"
 			},
 			"chickenmeal": {
-				"description": "_MISSING_Unlocks a more complex meal which yields more Sacred Points when consumed by colonists",
-				"name": "_MISSING_Chicken Meals"
+				"description": "Avaa uuden edistyneemmän aterian, joka tuottaa enemmän pyhiäpisteitä siirtomaalaisten syömisen yhteydessä",
+				"name": "Kana-ateria"
 			},
 			"classical": {
-				"description": "_MISSING_Revive the way the ancients built",
-				"name": "_MISSING_Classical Architecture"
+				"description": "Palauta ennesaikainen arkkitehtuuri takaisin eloon",
+				"name": "Klassinen arkkitehtuuri"
 			},
 			"compass": {
-				"description": "_MISSING_Unlocks the compass; a navigation tool to find back your home",
-				"name": "_MISSING_Compass"
+				"description": "Avaa kompassin, joka ohjaa sinut takaisin kotiin.",
+				"name": "Compass"
 			},
 			"constructionbuilder": {
-				"description": "_MISSING_Unlock builder areas for the construction worker",
-				"name": "_MISSING_Builder"
+				"description": "Avaa rakennusalueet rakentajille.",
+				"name": "Rakentaja"
 			},
 			"constructiondigger": {
-				"description": "_MISSING_Unlock digger areas for the construction worker",
-				"name": "_MISSING_Digger"
+				"description": "Avaa kaivuualueet rakentajille.",
+				"name": "Louhijat"
 			},
 			"constructiondiggerspecial": {
-				"description": "_MISSING_Unlock advanced construction areas",
-				"name": "_MISSING_Advanced Construction"
+				"description": "Avaa edistyneemmät rakennusalueet.",
+				"name": "Edistyneempi rakentaminen"
 			},
 			"cook": {
-				"description": "_MISSING_Unlocks the cook and the fisherman, new sources of meals for your colonists",
-				"name": "_MISSING_Cook"
+				"description": "Avaa kokin ja kalastajan, edistyneempiä ruokailuvaihtoehtoja siirtomaalaisillesi.",
+				"name": "Ruuan valmistaminen"
 			},
 			"copperlockbox": {
-				"description": "_MISSING_Unlocks the Copper Lockbox. While placed it increases the colony point capacity. Warning: every placed lockbox will lure more monsters to your colony!",
-				"name": "_MISSING_Copper Lockbox"
+				"description": "Avaa kupari lukkolaatikon, asetettuna se nostaa siirtomaan piste ylärajaa. Varoitus! mitä enemmän lukkolaatikoita asetat, sitä enemmän hirviöitä syntyy öisin.",
+				"name": "Kupari lukkolaatikko"
 			},
 			"cotton": {
-				"description": "_MISSING_Unlocks a source of high quality textiles. Cotton plants only grow in heaths.",
-				"name": "_MISSING_Cotton"
+				"description": "Avaa korkealaatuisten tekstiilien lähteen. Puuvilla kasvaa vain nummikankailla.",
+				"name": "Puuvilla"
 			},
 			"crossbow": {
-				"description": "_MISSING_More powerful archery",
-				"name": "_MISSING_Crossbows"
+				"description": "Vaarallisempaa jousimiehyyttä (hirviöille)",
+				"name": "Varsijousi"
 			},
 			"dyeing": {
-				"description": "_MISSING_Learn to grow flowers in marshes, allowing you to add color to your world.",
-				"name": "_MISSING_Dyeing"
+				"description": "Opi kukkien kasvattaminen soilla, niiden avulla voit avata värien portit maailmaasi.",
+				"name": "Värjääminen"
 			},
 			"elevator": {
-				"description": "_MISSING_Unlocks elevator production, useful for traversing vertical distances",
-				"name": "_MISSING_Elevator"
+				"description": "Avaa hissien valmistamisen, helpottaa pystysuuntaista kulkemista",
+				"name": "Hissi"
 			},
 			"elevatorhorizontal": {
-				"description": "_MISSING_Unlocks rail production, useful for traversing horizontal distances",
-				"name": "_MISSING_Rails"
+				"description": "Avaa rautateiden valmistamisen, helpottaa vaakasuuntaista kulkemista",
+				"name": "Rautatiet"
 			},
 			"engineer": {
-				"description": "_MISSING_Unlocks the engineer and the trapfixer. The engineer makes traps and their ammo, which can be used to fight monsters. The trapfixer will load and reload nearby traps.",
-				"name": "_MISSING_Engineer"
+				"description": "Avaa insinöörin sekä loukunkorjaaja. Insinööri valmistaa ansat ja niiden ammuksey, joilla voi puolustautua hirviöitä vastaan. loukunkorjaaja täyttää ansat.",
+				"name": "Insinööri"
 			},
 			"failsafe": {
-				"description": "_MISSING_Unlocks the Sacred Failsafe, an emergency tool that uses Sacred Points to eliminate monsters",
-				"name": "_MISSING_Sacred Failsafe"
+				"description": "Avaa pyhän viansietäjän, hätätyökalu jota käytetään pyhäpisteillä tappamaan hirviöitä.",
+				"name": "Pyhä viansietäjä"
 			},
 			"farming": {
-				"description": "_MISSING_Unlocks the wheat farmer. Wheat will grow in importance as food over time.",
-				"name": "_MISSING_Wheat Farming"
+				"description": "Avaa vehnänjiljeliän, vehnä ruokana tulee olemaan tärkeämpää pelissä myöhemmin.",
+				"name": "Vehnän viljely"
 			},
 			"fence": {
-				"description": "_MISSING_Could be very practical, but is mostly aesthetic.",
-				"name": "_MISSING_Fence"
+				"description": "Voi tulla hyötyyn, mutta tarkoitettu estetiikaksi.",
+				"name": "Aidat"
 			},
 			"flowerbox": {
-				"description": "_MISSING_Spread some permanent cheer",
-				"name": "_MISSING_Flower Box"
+				"description": "Levitä pitkäkestoista iloa",
+				"name": "Istutusalusta"
 			},
 			"furnace": {
-				"description": "_MISSING_Unlocks the smelter, a worker who processes ores",
-				"name": "_MISSING_Smelter"
+				"description": "Avaa sulattajan, joka sulattaa arvometaleja masuunissa",
+				"name": "Sulattaja"
 			},
 			"glassblower": {
-				"description": "_MISSING_Unlocks a way to craft glass",
-				"name": "_MISSING_Glassblower"
+				"description": "Avaa lasinpuhaltamisen",
+				"name": "Lasinpuhaltaja"
 			},
 			"glider": {
-				"description": "_MISSING_Unlocks glider production, allowing unpowered flight from higher points",
-				"name": "_MISSING_Glider"
+				"description": "Avaa purjelentokoneen, jolla voi liitää korkeista pisteistä ilman energiaa.",
+				"name": "Purjelentokone"
 			},
 			"glidersteel": {
-				"description": "_MISSING_Unlocks a launcher that quickly shoots gliders to tremendous heights.",
-				"name": "_MISSING_Launched Steel Glider"
+				"description": "Avaa tykin, joka lennättää purjeen korkealle ilmaan.",
+				"name": "Lentävä teräksinen purjelentokone"
 			},
 			"goldenstatue": {
-				"description": "_MISSING_Unlocks the Threat Banner, which will attract monsters from other outposts to the one it's placed in.",
-				"name": "_MISSING_Threat Banner"
+				"description": "Avaa kutsuviirin, joka houkuttelee vaaran toiseen siirtokuntaan tai tukipisteeseen..",
+				"name": "Kutsuviiri"
 			},
 			"grassdirt": {
-				"description": "_MISSING_Provides a source for grass and dirt",
-				"name": "_MISSING_Grass & Dirt Production"
+				"description": "Luo ruohon ja mullan lähteen",
+				"name": "Ruohon ja mulla tuottaminen"
 			},
 			"grenadelauncher": {
 				"description": "_MISSING_Unlocks a powerful weapon which can eliminate groups of enemies at a distance.",
